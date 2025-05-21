@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Local research library data
+library.db
+papers/*
+!papers/.gitkeep
